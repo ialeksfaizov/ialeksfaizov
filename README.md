@@ -192,4 +192,4 @@ Here are some ideas to get you started:
 
 
 # Моя статистика: 
-![Github stats](https://)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ialeksph&show_icons=true&&hide=issues,contribs)
