@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-</table>
+# Мое резюме:
+ - [Резюме](https://github.com/ialeksph/ialeksph/blob/main/Phaizov_Aleksandr_CV.pdf)
 
 
 # Курсы:
