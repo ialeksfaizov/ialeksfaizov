@@ -50,8 +50,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ialeksph/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
   <td>Яндекс.Практикум</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
-   
- Задействованные библиотеки и модули: Pandas, Pymystem3</td>
+ Задействованные библиотеки и модули: `Pandas`, `Pymystem3`</td>
   <td>Завершен</td>
 </tr>
 
