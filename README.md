@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ialeksph&style=plastic&label=profile+views&color=orange)
+![](https://komarev.com/ghpvc/?username=ialeksfaizov&style=plastic&label=profile+views&color=orange)
 
 <!--
 **ialeksph/ialeksph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Мое резюме:
- - [Резюме](https://github.com/ialeksph/ialeksph/blob/main/Phaizov_Aleksandr_CV.pdf)
+ - [Резюме](https://github.com/ialeksfaizov/ialeksfaizov/blob/main/Phaizov_Aleksandr_CV.pdf)
 
 
 # Курсы:
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/ialeksph/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
+  <td><a href = "https://github.com/ialeksfaizov/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
   <td>Яндекс.Практикум</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
    
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/ialeksph/Data-preparation-and-visualize-for-estate-market">Исследование объявлений о продаже квартир</a></td>
+  <td><a href = "https://github.com/ialeksfaizov/Data-preparation-and-visualize-for-estate-market">Исследование объявлений о продаже квартир</a></td>
   <td>Яндекс.Практикум</td>
   <td>В распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Необходимо определить рыночную стоимость объектов недвижимости, установить параметры - это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
    
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/ialeksph/Mobile-tariffs-analysis">Определение перспективного тарифа для телеком компании</a></td>
+  <td><a href = "https://github.com/ialeksfaizov/Mobile-tariffs-analysis">Определение перспективного тарифа для телеком компании</a></td>
   <td>Яндекс.Практикум</td>
   <td>В компании — федерального оператора сотовой связи, клиентам предлагают два тарифных плана. Необходимо выполнить предварительный анализ тарифов на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет.
    
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/ialeksph/Game-market-analysis">Прогноз продаж в интернет-магазине</a></td>
+  <td><a href = "https://github.com/ialeksfaizov/Game-market-analysis">Прогноз продаж в интернет-магазине</a></td>
   <td>Яндекс.Практикум</td>
   <td>Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
    
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/ialeksph/Tariffs-recommendation">Рекомендация тарифов мобильной связи</a></td>
+  <td><a href = "https://github.com/ialeksfaizov/Tariffs-recommendation">Рекомендация тарифов мобильной связи</a></td>
   <td>Яндекс.Практикум</td>
   <td>В компании — федерального оператора сотовой связи, хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф. В распоряжении данные о поведении клиентов, которые уже перешли на эти тарифы. Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.
    
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 </tr>
  
 <tr>
-  <td><a href = "https://github.com/ialeksph/Churn-prediction">Прогнозирование оттока клиентов банка</a></td>
+  <td><a href = "https://github.com/ialeksfaizov/Churn-prediction">Прогнозирование оттока клиентов банка</a></td>
   <td>Яндекс.Практикум/Kaggle</td>
   <td>Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.
    
@@ -127,4 +127,4 @@ Here are some ideas to get you started:
 
 
 # Моя статистика: 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ialeksph&show_icons=true&&hide=issues,contribs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ialeksfaizov&show_icons=true&&hide=issues,contribs)
