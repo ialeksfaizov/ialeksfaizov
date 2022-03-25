@@ -79,12 +79,8 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr>
  
-
- 
 </table>
 </details>
-
-
 
 ## Классификация:
 
@@ -103,7 +99,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ialeksfaizov/Tariffs-recommendation">Рекомендация тарифов мобильной связи</a></td>
   <td>Яндекс.Практикум</td>
   <td>Необходимо построить модель для задачи классификации, которая выберет подходящий тариф.</td>
-  td>Pandas, Numpy, Scikit-learn, tqdm</td>    
+  <td>Pandas, Numpy, Scikit-learn, tqdm</td>    
   <td>Завершен</td>
 </tr>
  
@@ -111,7 +107,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ialeksfaizov/Churn-prediction">Прогнозирование оттока клиентов банка</a></td>
   <td>Яндекс.Практикум/Kaggle</td>
   <td>Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.</td>
-  td>Pandas, Numpy, Scikit-learn, Matplotlib</td>   
+  <td>Pandas, Numpy, Scikit-learn, Matplotlib</td>   
   <td>Завершен</td>
 </tr>
  
@@ -135,7 +131,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ialeksfaizov/Profit-prediction-for-oil">Прогназ прибыли для нефтяных скважин</a></td>
   <td>Яндекс.Практикум</td>
   <td>Необходимо построить модель для определения региона, где добыча принесёт наибольшую прибыль.</td>
-  td>Pandas, Numpy, Scikit-learn, SciPy, Matplotlib, Seaborn</td>
+  <td>Pandas, Numpy, Scikit-learn, SciPy, Matplotlib, Seaborn</td>
   <td>Завершен</td>
 </tr>
  
