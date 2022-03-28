@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Мое резюме:
+# CV:
  - [Резюме](https://github.com/ialeksfaizov/ialeksfaizov/blob/main/Phaizov_Aleksandr_CV.pdf)
 
 
