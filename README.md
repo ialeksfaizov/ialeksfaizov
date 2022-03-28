@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # CV:
- - [Резюме](https://github.com/ialeksfaizov/ialeksfaizov/blob/main/Phaizov_Aleksandr_CV.pdf)
+ - [CV](https://github.com/ialeksfaizov/ialeksfaizov/blob/main/Phaizov_Aleksandr_CV.pdf)
 
 
 # Курсы:
