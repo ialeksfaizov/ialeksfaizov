@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <tr>
 
 <tr>
-  <td>Яндекс.Практикум: Специалист по Data Science</a></td>
+  <td><a href = "https://github.com/ialeksfaizov/Yandex-Praktikum-Data-Science">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
   <td>Когорта ds_33 - дата завершения обучения - 07.08.2022</td>
 </tr> 
