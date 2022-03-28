@@ -1,37 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=ialeksfaizov&style=plastic&label=profile+views&color=orange)
 
-<!--
-**ialeksph/ialeksph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 I'm developing in the field of machine learning and data analysis.
+- 🛸 Until 2022, he was engaged in the design and management of projects in the field of low-voltage engineering systems.
+- 🌱 I think that free time should be spent on self-improvement, optimizing the skills of current activities.
+- 🌄 Spiritually, I prefer to spend my time doing music, sports, watching movies, attending various creative events.
+- 📫 How to reach me: E-mail: av.faizov@gmail.com. Telegram: t.me/aleksandrfaizov
+- 📄  Please have a look at my [Résumé](https://github.com/ialeksfaizov/ialeksfaizov/blob/main/Phaizov_Aleksandr_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
-# CV:
- - [CV](https://github.com/ialeksfaizov/ialeksfaizov/blob/main/Phaizov_Aleksandr_CV.pdf)
 
 
-# Курсы:
-<table>
-<tr>
-
-<tr>
-  <td><a href = "https://github.com/ialeksfaizov/Yandex-Praktikum-Data-Science">Яндекс.Практикум: Специалист по Data Science</a></td>
-  <td>Дистанционная</td>
-  <td>Когорта ds_33 - дата завершения обучения - 07.08.2022</td>
-</tr> 
-</table>
-</details>
-
-
-# Моя статистика: 
+# My stats: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ialeksfaizov&show_icons=true&&hide=issues,contribs)
